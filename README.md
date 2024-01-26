@@ -4,5 +4,4 @@
 
 ```shell
 pip install PyPDF2
-pip install python-docx
 ```
