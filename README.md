@@ -1,1 +1,8 @@
-# PDF_to_CSV_converter
+# PDF_to_CSV_converter using Python
+
+## pre steps
+
+```shell
+pip install PyPDF2
+pip install python-docx
+```
